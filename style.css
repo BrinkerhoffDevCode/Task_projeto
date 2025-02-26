@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(37, 167, 197);
+
+}
+.azul {
+    padding: 100px;
+   
+}
+
+
+.amarela {
+    background-color: rgb(235, 211, 34);
+    padding: 100px;
+    margin: 20px;
+}
+
+
+.flex {
+    display: flex;
+}
+
+.centralizar{
+    max-width: 700px;
+    margin: 0 auto;
+
+
+}
+
+.esticar{
+    padding-left: 350px;
+
+
+}
+
+.aumentar{
+    padding-top: 350px ;
+
+
+}
+
+.cristal{
+    padding-top: 250px;
+}
+
+.aqua {
+    background-color: rgb(37, 167, 197);
+    padding: 100px;
+    margin: 20px;
+}
+
+.alongar{
+    padding-right:500px
+
+
+}
